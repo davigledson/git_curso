@@ -3,3 +3,4 @@
 // exemplo: git commit
 
 //git pull - sincronizar com o repositório remoto 
+//git log
