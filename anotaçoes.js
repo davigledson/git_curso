@@ -7,4 +7,6 @@
 
 //git mv - podemos mover/remomenar um arquivo
 
-//git checkout <nome ou caminho do arquivo> - desfaz a alteraçao do arquivo
+//git checkout <nome ou caminho do arquivo> - desfaz a alteraçao do arquivo (antes do commit)
+
+//git reset --hard <nome do branch>  (resetar tudo em um branch) - (desfaz todas as mudanças local)
