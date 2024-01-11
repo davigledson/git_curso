@@ -21,3 +21,5 @@
 //git branch -d  <nome do branch> - deletar o branch
 //git checkout  <nome do branch>  - mudar de branch
 //git checkout -b <nome do branch>  - mudar e criar um branch
+
+//unindo branchs
