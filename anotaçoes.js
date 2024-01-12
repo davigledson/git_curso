@@ -42,3 +42,11 @@
 //git checkout <nome> - troca de tag
 //git push origin <nome> - enviar tags para o  repositório
 //git push origin --tags  -enviar mais de uma tags
+
+//git fetch -a   - você é atualizado de todos os branches e tags
+
+//COMPATILHAMENTO E ATUALIZAÇAO
+
+//git remote  - podemos adicionar um repo para tracker ou remover
+//git remote -v    -ver as origin (fetch e push)
+//git remote rm origin - remove os links  do repositório
