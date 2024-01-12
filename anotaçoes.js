@@ -38,3 +38,7 @@
 
 //git tag -a <nome> -m '<msg>'   - podemos criar tags nos branches (serve como um checkpoint de um branch)
 //git tag - lista as tags
+//git show <nome> - verifica uma tag
+//git checkout <nome> - troca de tag
+//git push origin <nome> - enviar tags para o  repositório
+//git push origin --tags  -enviar mais de uma tags
