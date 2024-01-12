@@ -33,3 +33,8 @@
 //git stash show -p 0 - mostrar as alterações
 //git stash clear  -limpar totalmente as stash de um branch
 //git stash drop <nome> - limpar uma stash especifica
+
+//TAGS
+
+//git tag -a <nome> -m '<msg>'   - podemos criar tags nos branches (serve como um checkpoint de um branch)
+//git tag - lista as tags
