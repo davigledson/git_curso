@@ -23,3 +23,13 @@
 //git checkout -b <nome do branch>  - mudar e criar um branch
 
 //unindo branchs
+
+//git merge <nome da branch> -- uni a branch nomeada com a atual
+
+//git stash  - salvar as modificações atuais para prosseguir com um outra abordagem de solução e não perder o código (joga numa lixeira para recuperar depois)
+
+//git stash list - verifica as stash criadas
+//git stash apply <numero> - recuperar a stash (o stash vai ser revertido ao branch atual)
+//git stash show -p 0 - mostrar as alterações
+//git stash clear  -limpar totalmente as stash de um branch
+//git stash drop <nome> - limpar uma stash especifica
