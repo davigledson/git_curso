@@ -80,3 +80,12 @@
 //git archive -podemos transformar o repo em um arquivo compactado (--format zip --output master_files.zip main)
 
 //exemplo git archive --format zip --output master_files.zip main
+
+//MELHORANDO OS COMMITS DO PROJETO
+//branchs com commits ruins
+//private branches
+//Onde criamos branches que não serão compartilhados no repositório, então podemos colocar qualquer commit;
+//Ao fim da solução do problema podemos fazer um rebase;
+ 
+//git rebase <atual> <funcionalidade> -i
+//Escolhemos os branches para excluir (squash) e renomear com (reword);
