@@ -50,3 +50,19 @@
 //git remote  - podemos adicionar um repo para tracker ou remover
 //git remote -v    -ver as origin (fetch e push)
 //git remote rm origin - remove os links  do repositório
+
+//git submodule -verifica os submodules
+//git submodule add <repo> -add um submódulo ao repositório 
+//git submodule add <repo> <pasta pai> -add um submódulo ao segundo parâmetro
+//ATUALIZANDO SUBMODULO
+//primeiro devemos commitar as mudanças
+//e para enviar para o  repo do submodulo  utilizaremos (dentro do submodulo)
+// git push --recurse-submodules=on-demand
+
+//ANALISE E INSPEÇÃO DE REPOSITÓRIOS 
+//git show  - dar informação sobre o branch atual e tambem seus commits
+//git show <tag>
+//git diff -serve para exibir as diferenças de um branch 
+//git diff <arquivo> <arquivo_b>  -verifica a diferença entre arquivos
+
+//git shortlog -dar um log resumido do das mensagem dos commits do repositório 

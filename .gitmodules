@@ -1,0 +1,3 @@
+[submodule "album_ifrn"]
+	path = album_ifrn
+	url = https://github.com/davigledson/album_ifrn.git
