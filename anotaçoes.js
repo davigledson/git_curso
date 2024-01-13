@@ -66,3 +66,17 @@
 //git diff <arquivo> <arquivo_b>  -verifica a diferença entre arquivos
 
 //git shortlog -dar um log resumido do das mensagem dos commits do repositório 
+
+//ADMINISTRAÇÃO DE REPOSITÓRIO 
+
+//git clean  - verifica o limpar arquivos não estão sendo trackeados  (ou seja, todos que não utilizou git add)
+//git clean -f - força a limpesa
+//git clone <link> <nome da pasta que será criada, aonde o repositório será jogado>
+//git gc - ele identifica arquivos que não são mais necessários e os excluir (otimiza o repositório )
+//git fsck - é uma abreviação de File System Chesk (verifica a integridade de arquivos e sua conectividade)
+
+//git reflog - vai mapear todos os seus passos no repositório, até uma mudança de branch é inserida neste log (o git log, apenas armazena os commits de um branch) (os reflogs ficam salvos até expirar, o tempo de expiração padrão é 30 dias)
+
+//git archive -podemos transformar o repo em um arquivo compactado (--format zip --output master_files.zip main)
+
+//exemplo git archive --format zip --output master_files.zip main
