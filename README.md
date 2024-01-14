@@ -26,5 +26,10 @@ texto: _itálico **e negrito**_
 2. CSS
 3. JavaScript
 4. PHP
+    1.P
+    2.H
+    3.P
 5. MySQL
 
+### Imagem
+![super computador](supercomputador.jpeg)
