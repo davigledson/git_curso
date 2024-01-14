@@ -89,3 +89,5 @@
  
 //git rebase <atual> <funcionalidade> -i
 //Escolhemos os branches para excluir (squash) e renomear com (reword);
+
+//git commit -a -m "assunto (ENTER - no terminal do vs code para continuar a mensagem)"
