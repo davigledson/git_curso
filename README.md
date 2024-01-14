@@ -12,4 +12,19 @@ texto: _itálico_
 
 texto: _itálico **e negrito**_
 
+### lista **ordenada**:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
+
+### lista *desordenada*:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. PHP
+5. MySQL
 
