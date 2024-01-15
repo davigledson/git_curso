@@ -31,5 +31,13 @@ texto: _itálico **e negrito**_
     3.P
 5. MySQL
 
-### Imagem
+### Imagem de um supercomputador
 ![super computador](supercomputador.jpeg)
+
+### Código (sintaxe especial do github )
+```
+print('Hello World');
+console.log('Hello World');
+echo 'Hello World';
+
+```
