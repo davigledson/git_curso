@@ -41,3 +41,9 @@ console.log('Hello World');
 echo 'Hello World';
 
 ```
+## lista de tarefas
+
+- [x] Area de membros
+- [ ] Intergraçao com outros pagamentos
+- [ ] sistema de bonus
+- [x] CSS do rodapé
